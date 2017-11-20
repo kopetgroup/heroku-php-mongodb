@@ -14,7 +14,6 @@
     }
   },
   "addons": [
-    "mongolab",
-    "stopngo"
+    "mongolab"
   ]
 }
